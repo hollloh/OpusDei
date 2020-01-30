@@ -1,0 +1,11 @@
+<!--
+	for text in spinners to wrap
+	only difference between this and "simple_spinner_dropdown_item" is android:singleLine="true"
+ -->
+<CheckedTextView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	style="?android:attr/spinnerDropDownItemStyle"
+	android:singleLine="false"
+	android:layout_width="match_parent"
+	android:layout_height="?android:attr/listPreferredItemHeight"
+	android:ellipsize="marquee" />

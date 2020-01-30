@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Opus Dei</string>
+
+	<string-array name="proprium_array">
+		<item>Proprium De Tempore</item>
+		<item>Proprium Sanctorum</item>
+	</string-array>
+
+	<string-array name="proprium_de_tempore_array">
+		<item>Adventus</item>
+		<item>Nativitas</item>
+	</string-array>
+
+	<string-array name="adventus_array">
+		<item>Sabbato Ante Dominicam Primam Adventus</item>
+		<item>Dominica Prima Adventus</item>
+		<item>Dominica Secunda Adventus</item>
+	</string-array>
+
+	<string-array name="nativitas_array">
+		<item>Vigilia Nativitatis Domini</item>
+		<item>Nativitate Domini</item>
+		<item>Sancti Stephani</item>
+	</string-array>
+
+
+	<string-array name="proprium_sanctorum_array">
+		<item>Januarii</item>
+		<item>Februarii</item>
+	</string-array>
+
+	<string-array name="januarii_array">
+		<item>Sancti Hygini</item>
+		<item>Sancti Benedicti</item>
+	</string-array>
+
+	<string-array name="februarii_array">
+		<item>Sancti Ignatii</item>
+		<item>Purificationis Beatae Mariae Virginis</item>
+	</string-array>
+
+
+	<string-array name="feria_array">
+		<item>Dominica</item>
+		<item>Secunda</item>
+		<item>Tertia</item>
+		<item>Quarta</item>
+		<item>Quinta</item>
+		<item>Sexta</item>
+		<item>Sabbato</item>
+	</string-array>
+	<string-array name="hora_array">
+		<item>Vesperas</item>
+		<item>Completorium</item>
+		<item>Matutinum</item>
+		<item>Laudes</item>
+		<item>Primam</item>
+		<item>Tertiam</item>
+		<item>Sextam</item>
+		<item>Nonam</item>
+	</string-array>
+   <string name="test_2">
+the other string
+   </string>
+    <string name="test_toggle">toggle</string>
+
+</resources>
